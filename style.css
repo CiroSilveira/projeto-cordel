@@ -23,7 +23,7 @@ header {
 header > h1 {
     margin: 0px;
     color: white;
-    font: 160px var(--font02);
+    font: 5vw var(--font02);
     font-variant: small-caps;
     font-weight: bold;
     text-align: center;
